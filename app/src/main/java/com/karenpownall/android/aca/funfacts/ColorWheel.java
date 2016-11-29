@@ -9,7 +9,7 @@ public class ColorWheel {
     //fields/member variables - properties about object
     //methods - actions the object can take
 
-    private String[] mColors = {
+    protected String[] mColors = {
             "#39add1", // light blue
             "#3079ab", // dark blue
             "#c25975", // mauve
